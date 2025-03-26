@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # --- Configuration ---
-FIO_PATH="/home/haakonks/fio"
+#FIO_PATH="/home/haakonks/fio"
+FIO_PATH="/mnt/c/Users/Public/Public Code/naic-io-bench/fio"
 JOB_DIR="$FIO_PATH/job"
 OUTPUT_DIR="$FIO_PATH/out"
 

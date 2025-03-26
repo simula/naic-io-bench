@@ -1,5 +1,5 @@
 [global]
-filename=/global/D1/100M   # File to write
+filename=/mnt/c/tmp/D1/100M   # File to write
 ioengine=libaio
 direct=1
 rw=randread
